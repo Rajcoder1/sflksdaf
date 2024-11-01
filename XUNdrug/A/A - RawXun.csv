@@ -1,0 +1,6 @@
+Num Aliphatic Carbocycles,Num Heteroatoms,Num Hydrogen Bond Acceptor,Num Aromatic Carbocycles,LogP,Num Rotatable Bonds,Num Aromatic Heterocycles,Num Lipinski HB Donor,Num Atoms,Num Lipinski HB Acceptor,Num Rings,Num Hydrogen bond Donor,Num Aliphatic Rings,Num Aliphatic Heterocycles,Num Heterocycles,Mol Wt,Labute ASA,Num Aromatic Rings,Topological Polar SA
+1,13,13,2,1.339,5,0,3,42,13,7,3,5,4,4,588.184,240.229,2,160.83
+1,13,13,2,1.339,5,0,3,42,13,7,3,5,4,4,588.184,240.229,2,160.83
+1,28,19,2,8.263,11,0,2,65,19,6,2,4,3,3,1097.897,413.029,2,228.73
+1,17,14,2,1.104,7,0,4,46,16,7,4,5,4,4,668.151,261.687,2,207.36
+1,19,18,2,-1.096,8,0,6,54,19,8,6,6,5,5,764.216,306.185,2,257.05
